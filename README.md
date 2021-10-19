@@ -1,0 +1,2 @@
+# AutoTranslator-simplifiedChinese
+为Unity自动翻译软件 XUnity.AutoTranslator 写的一个本地繁体转简体的小插件
